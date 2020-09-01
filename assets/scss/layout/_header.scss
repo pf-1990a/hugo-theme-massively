@@ -14,8 +14,8 @@
 		@include vendor('justify-content', 'flex-end');
 		@include vendor('pointer-events', 'none');
 		@include vendor('user-select', 'none');
-		height: 20rem;
-		padding-bottom: (_size(padding) * 4);
+		height: 19rem;
+		padding-bottom: (_size(padding) * 3.5);
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -45,6 +45,10 @@
 				border-color: _palette(invert, accent) !important;
 				color: _palette(invert, accent) !important;
 			}
+		}
+
+		p {
+			margin-bottom: 0px;
 		}
 
 		@include breakpoint('<=medium') {

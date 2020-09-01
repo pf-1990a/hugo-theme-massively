@@ -2072,7 +2072,7 @@ table.alt tbody tr td {
     margin-top: -0.25rem;
     text-align: center; }
   #intro + #header {
-    margin-top: -20rem; }
+    margin-top: -3rem; }
     #intro + #header .logo {
       -moz-transform: translateY(2rem);
       -webkit-transform: translateY(2rem);
@@ -2156,8 +2156,8 @@ table.alt tbody tr td {
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  height: 20rem;
-  padding-bottom: 8rem;
+  height: 19rem;
+  padding-bottom: 7rem;
   position: relative;
   text-align: center;
   z-index: 2; }
@@ -2200,6 +2200,8 @@ table.alt tbody tr td {
     #header .logo:hover {
       border-color: #18bfef !important;
       color: #18bfef !important; }
+  #header p {
+    margin-bottom: 0px; }
   @media screen and (max-width: 980px) {
     #header {
       height: 14rem;
