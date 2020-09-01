@@ -1,5 +1,6 @@
 languageCode = "en-us"
 title = "Habit vs Fear"
+description = "Take control. Be better. Play to win."
 baseURL = "http://localhost:1313/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
