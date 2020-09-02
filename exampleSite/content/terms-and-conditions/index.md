@@ -1,11 +1,11 @@
----
-title: "Terms and Conditions 126tr"
-date: 2020-05-14T14:46:10+06:00
-description: "sdfsdfs"
-type: "page"
-layout: "simple-static"
-featuredpost: "false"
----
++++
+title = 'Terms and Conditions 126tr'
+date = 2020-05-14T14:46:10+06:00
+description = ''
+type = 'page'
+layout = 'simple-static'
+featuredpost = 'false'
++++
 
 ### Legal Notices
 We, the Operators of this Website, provide it as a public service to our users. Please carefully review the following basic rules that govern your use of the Website. Please note that your use of the Website constitutes your unconditional agreement to follow and be bound by these Terms and Conditions of Use. If you (the "User") do not agree to them, do not use the Website, provide any materials to the Website or download any materials from them.  
